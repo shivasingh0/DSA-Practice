@@ -1,0 +1,7 @@
+<-- Javascript Methods -->
+1. split('') -> It convert a string into array.
+2. join('') -> It convert a array into string.
+3. reverse() -> It is used to reverse an array.
+
+
+** "For of" loop works on array and "For in" loop works on objects **
