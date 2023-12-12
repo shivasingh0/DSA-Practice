@@ -1,0 +1,69 @@
+1. Reverse a String:
+2. Check for Palindrome:
+3. Factorial:
+4. Fibonacci Sequence:
+5. Find Maximum Element:
+Arrays and Strings:
+Two Sum:
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+Longest Substring Without Repeating Characters:
+Find the length of the longest substring without repeating characters.
+
+Rotate Array:
+Rotate an array to the right by k steps.
+
+Group Anagrams:
+Given an array of strings, group anagrams together.
+
+Merge Intervals:
+Given a collection of intervals, merge overlapping intervals.
+
+Linked Lists:
+Reverse Linked List:
+Reverse a singly linked list.
+
+Detect Cycle in a Linked List:
+Determine if a linked list has a cycle.
+
+Intersection of Two Linked Lists:
+Find the node at which the intersection of two linked lists begins.
+
+Trees and Graphs:
+Binary Tree Inorder Traversal:
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
+
+Graph Traversal (BFS and DFS):
+Implement Breadth-First Search (BFS) and Depth-First Search (DFS) for a graph.
+
+Valid Binary Search Tree (BST):
+Given a binary tree, determine if it is a valid binary search tree.
+
+Shortest Path in a Graph:
+Find the shortest path in a weighted graph using Dijkstra's or Bellman-Ford algorithm.
+
+Sorting and Searching:
+Merge Sort:
+Implement the merge sort algorithm.
+
+Binary Search:
+Implement the binary search algorithm.
+
+QuickSort:
+Implement the quicksort algorithm.
+
+Search in Rotated Sorted Array:
+Search an element in a rotated sorted array.
+
+Dynamic Programming:
+Longest Increasing Subsequence:
+Find the length of the longest increasing subsequence of a given array of integers.
+
+Knapsack Problem:
+Solve the 0/1 knapsack problem using dynamic programming.
+
+Maximum Subarray Sum:
+Find the contiguous subarray with the largest sum.
+
+Edit Distance:
+Compute the minimum number of operations required to convert one string into another.
