@@ -106,3 +106,14 @@ function findSecondLargestValue(arr) {
   return null;
 }
 console.log("findSecondLargestValue: ", findSecondLargestValue(arr));
+
+function sumOfArrayElements(arr) {
+  let sum = 0;
+
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i];
+  }
+
+  return sum;
+}
+console.log("sumOfArrayElements: ", sumOfArrayElements(arr));
