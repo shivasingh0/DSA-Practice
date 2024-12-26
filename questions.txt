@@ -1,0 +1,8 @@
+let arr = [5, 2, 6, 7, 3, 8, 0, 9, 4, -1];
+
+1. Sort the given array;
+2. Reverse the given array;
+3. Sort and Reverse the given array;
+4. find Maximum Value from the given array;
+4. find Minimum Value from the given array;
+5. find Second Largest Value from the given array;
